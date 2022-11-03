@@ -19,6 +19,14 @@
     <string name="btn_3">Renda Gezag P</string>
     <string name="btn_4">Reyhan Naufal H</string>
     <string name="btn_5">Yusuf Ainurrofiq</string>
+    
+    //Anggota1
+    <string name="foto_nabila"></string>
+    <string name="nama_1">Nabila Zarima</string>
+    <string name="nim_1">V3421067</string>
+    <string name="email_1">nabilazarima@gmail.com</string>
+    <string name="alamat_1">Mruwak, Dagangan, Madiun</string>
+    <string name="button_list1">List Anggota</string>
 
 
     //Anggota2
@@ -37,18 +45,6 @@
     <string name="email_3">renda.pawestrig@gmail.com</string>
     <string name="alamat_3">Sendang, Karanglor, Manyaran, Wonogiri</string>
     <string name="button_list3">List Anggota</string>
-    
-    //Anggota4
-    <string name="foto_reyhan"></string>
-    <string name="nama_4">Reyhan Naufal Hakim</string>
-    <string name="nim_4">V3421081</string>
-    <string name="email_4">reyhannaufal.h@gmail.com</string>
-    <string name="alamat_4">Mojosongo, Jebres, Surakarta</string>
-    <string name="nama_i">Nama Lengkap</string>
-    <string name="nim_i">Nomor Induk Mahasiswa</string>
-    <string name="email_i">Email</string>
-    <string name="alamat_i">Alamat</string>
-    
-    <string name="kembali">Kembali</string>
+
 
 </resources>
